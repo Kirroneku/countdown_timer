@@ -22,7 +22,7 @@ class Time extends Component {
     }
 
     render() {
-        console.log(this.state.time.toLocaleTimeString());
+        // console.log(this.state.time.toLocaleTimeString());
 
         return(
             <div>

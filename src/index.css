@@ -18,3 +18,23 @@ body{
 h1, h2, h3, h4, h5{
     font-family: EconomicaBold;
 }
+
+.dateInput {
+    border: solid 0px;
+    text-align: right; 
+    width: 12em;
+}
+
+.timeInput:hover {
+    border: solid 1px;
+}
+
+.timeInput {
+    border: solid 0px;
+    text-align: right; 
+    width: 5em;
+}
+
+.timeInput:hover {
+    border: solid 1px;
+}

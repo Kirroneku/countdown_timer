@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Time from './Time';
+import AlarmSet from './AlarmSet';
 
 class App extends Component {
     render() {
@@ -7,7 +8,7 @@ class App extends Component {
             <div>
                 Countdown Clock
                 <Time/>
-                
+                <AlarmSet />
             </div>
         )
     }
